@@ -1,1 +1,1 @@
-# tp-mini-app
+# tg-mini-app
